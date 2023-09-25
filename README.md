@@ -7,4 +7,10 @@
  2.hello jimmy  
  3.hello dolphin  
 ```
-
+```c
+//code that does nothing
+int main(void)
+{
+    return 0;
+}
+```
