@@ -1,6 +1,6 @@
 # Jimmy chicken
 
-###### SMALLER Jimmy
+###### SMALLER dolphin
 
 ```
  1.hello world  
