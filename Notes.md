@@ -22,3 +22,14 @@ pushes local changes to github
 pulls github changes to local
 - git pull upstream  
 pulls the changes to forked repository to local
+- git checkout branch name  
+switches branch
+- git checkout -b name  
+creates a new branch
+- git branch  
+shows branches
+- git branch -d branch name  
+deletes branch
+- git log  
+shows commit history 
+   
