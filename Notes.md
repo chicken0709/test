@@ -15,7 +15,7 @@ checks connected remote directories
 - git remote add upstream url  
 sets upstream of the forked repository to help sync 
 - git push -u origin branch name  
-sets upstream in github to push to
+sets upstream to push to github (do it for every new branch)
 - git push  
 pushes local changes to github
 - git pull  
