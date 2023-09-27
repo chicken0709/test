@@ -13,7 +13,7 @@ stages and commits the changes of an already added file to git
 - git remote -v  
 checks connected remote directories
 - git remote add upstream url  
-sets upstream of the forked repository to help sync 
+sets upstream to the original repository to help sync 
 - git push -u origin branch name  
 sets upstream to push to github (do it for every new branch)
 - git push  
@@ -32,4 +32,6 @@ shows branches
 deletes branch
 - git log  
 shows commit history 
+- git diff branch name  
+shows difference between current branch and designated branch
    
